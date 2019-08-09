@@ -41,6 +41,16 @@ buck-out/
 \.buckd/
 *.keystore
 
+<<<<<<< HEAD
+=======
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+>>>>>>> efed154884b431be9c4520c4ca4c29c84aae8314
 */fastlane/report.xml
 */fastlane/Preview.html
 */fastlane/screenshots
